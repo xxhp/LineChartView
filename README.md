@@ -1,7 +1,6 @@
 ## LineChartView
 
-
-Inspired by MZGraph(https://github.com/SergheiMazur/MZGraph),Thanks!
+Inspired by MZGraph(https://github.com/SergheiMazur/MZGraph),  Thanks!
 
 # License
 
